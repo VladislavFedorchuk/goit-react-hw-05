@@ -12,7 +12,7 @@
      border: 2px solid #000;
      border-radius: 7px;
      font-size: 16px;
-     background: linear-gradient(to right, rgb(2, 2, 88),purple);
+     background: linear-gradient(to right, #1d1127,purple);
  }
 
  .searchBtn {
